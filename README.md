@@ -15,6 +15,7 @@ Este proyecto es parte de la actividad práctica de desarrollo con Node.js y Exp
    - Inicia el proyecto.
    - Se abrirá tu navegador automáticamente con la ruta principal, o puedes visitar `http://localhost:1337/` para ver el mensaje correspondiente.
    - Para ver la ruta secundaria puedes visitar `http://localhost:1337/ruta-secundaria` para ver el mensaje correspondiente.
+   - `Nota:` Hay que tener en cuenta que el puerto puede variar, las direcciones proporcionadas solo son de referencia.
 
 ## Estructura del Proyecto
 
