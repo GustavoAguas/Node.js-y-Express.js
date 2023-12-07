@@ -1,6 +1,6 @@
 # Proyecto Node.js y Express.js
 
-Este proyecto es parte de la actividad práctica de desarrollo con Node.js y Express.js. La aplicación básica incluye una ruta principal y una ruta secundaria con mensajes simples.
+Este proyecto es realizado en Visual Studio 2022 con Node.js y Express.js. La aplicación básica incluye una ruta principal y una ruta secundaria con mensajes simples.
 
 ## Instrucciones
 
@@ -11,7 +11,8 @@ Este proyecto es parte de la actividad práctica de desarrollo con Node.js y Exp
    - Descarga este repositorio en tu máquina local.
 
 3. **Ejecución del Proyecto:**
-   - Abre el proyecto.
+   - Dentro de la carpeta descargada abre el archivo `Nodejs.njsproj`.
+   - Antes de iniciar el proyecto abre una terminal dentro de Visual Studio, la cual suele estar en el apartado "Ver" y ejecuta lo siguiente: `npm install` para descargar archivos necesarios para ejecutar el proyecto.
    - Inicia el proyecto.
    - Se abrirá tu navegador automáticamente con la ruta principal, o puedes visitar `http://localhost:1337/` para ver el mensaje correspondiente.
    - Para ver la ruta secundaria puedes visitar `http://localhost:1337/ruta-secundaria` para ver el mensaje correspondiente.
