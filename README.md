@@ -8,12 +8,13 @@ Este proyecto es parte de la actividad práctica de desarrollo con Node.js y Exp
    - Asegúrate de tener Node.js instalado en tu entorno de desarrollo. Puedes descargarlo desde [nodejs.org](https://nodejs.org/).
 
 2. **Configuración del Proyecto:**
-   - Clona este repositorio en tu máquina local.
+   - Descarga este repositorio en tu máquina local.
 
 3. **Ejecución del Proyecto:**
-   - Usa el comando `npm start` para iniciar la aplicación.
-   - Abre tu navegador y visita `http://localhost:3000/` para ver el mensaje de la ruta principal.
-   - Visita `http://localhost:3000/ruta-secundaria` para ver el mensaje de la ruta secundaria.
+   - Abre el proyecto.
+   - Inicia el proyecto.
+   - Se abrirá tu navegador automáticamente con la ruta principal, o puedes visitar `http://localhost:1337/` para ver el mensaje correspondiente.
+   - Para ver la ruta secundaria puedes visitar `http://localhost:1337/ruta-secundaria` para ver el mensaje correspondiente.
 
 ## Estructura del Proyecto
 
